@@ -1,0 +1,15 @@
+header{
+    background-color: blueviolet;
+}
+h1{
+    border: 5px inset aqua;
+}
+
+footer{
+    background-color: brown;
+    border: 4px double darkgoldenrod;
+}
+
+body{
+    background-color: lightcoral;
+    text-align: center
